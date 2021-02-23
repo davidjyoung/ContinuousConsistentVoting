@@ -7,7 +7,7 @@ to the large size of the data objects they use.
 
 *To replicate the analyses and reproduce the graphs in full:*
 
-    1. You will need to download the data sources using the information provided in the paper (we lack permission to share them ourselves)
+    1. You will need to download the data sources using the information provided in the Supplementary Material 'Data Sources' (we lack permission to share them ourselves)
         For the sake of ease we repeat the locations of these datasets at the bottom of this file.
         Ensure to align the names of the source files you save with those in the scripts 
         Also bear in mind that depending on your software and settings, your table and spreadsheet headings may differ to ours
